@@ -6,7 +6,7 @@ O [R-Ladies Goiânia](https://www.rladiesgyn.com/) nasceu de uma vontade de torn
 
 ## Meetup
 
-O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma de divulgação dos eventos pertencentes a comunidade R-Ladies.
+O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma de divulgação dos eventos pertencentes a comunidade R-Ladies. São grupos, e se você faz parte dele, você fica sabendo em primeira mão (direto em seu e-mail) os eventos que estão por vir. Faça parte e fica por dentro dos nosso eventos, cursos e palestras.
 
 ## Redes Sociais
 
@@ -20,17 +20,17 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 1. [Code Ladies Day em parceria com PyLadies e AI Girls](https://www.meetup.com/pt-BR/rladies-goiania/events/269130963/)
      * No dia 12/03/2020, às 19h, o R-Ladies GYN juntamente com as comunidades PyLadies Goiânia e AI Girls ofereceu um evento abordando temas voltados a análises, inteligência artificial e mulheres na computação.
-     * Apresentado por nossa c0-fundadora [Lais Franco](https://www.linkedin.com/in/lais-franco-/).
+     * Apresentado por nossa co-fundadora [Lais Franco](https://www.linkedin.com/in/lais-franco-/).
      * [Apresentação em PDF](https://github.com/FernandaKelly/Palestras)
      
 ### 2019
 
-1. [Colóqui dos Estudantes de Matemática e Estatística de Goiás](https://cemeg.ime.ufg.br/p/20585-o-evento)
-     * No dia 06/11/2019, às 14h, o R-Ladies GYN, a convite da comissão organizadora do evento, esteve presente apresentando os princípios da comunidade e seus objetivos perante a comunidade.
+1. [Colóquio dos Estudantes de Matemática e Estatística de Goiás](https://cemeg.ime.ufg.br/p/20585-o-evento)
+     * No dia 06/11/2019, às 14h, o R-Ladies GYN, a convite da comissão organizadora do evento, esteve presente apresentando os princípios da comunidade e seus objetivos perante a sociedade.
      * Apresentado por nossa fundadora [Fernanda Kelly](https://www.linkedin.com/in/fernanda-kelly-98a43b17a/).
      * [Apresentação em PDF](https://github.com/FernandaKelly/Palestras)
      
 2. [R-Ladies GYN: Analisando dados longitudinais e ML na Indústria Alimentícia com R](https://www.meetup.com/pt-BR/rladies-goiania/events/267000090/)
-     * No dia 12/12/2019, às 19h, o R-Ladies GYN juntamente com a comunidade Data Train ofereceu o nosso 1° meetup e a Data Train o seu 4° meetup. 
+     * No dia 12/12/2019, às 19h, o R-Ladies GYN juntamente com a comunidade Data Train ofereceu o nosso 2° meetup e a Data Train o seu 4° meetup. 
      * Apresentado por nossa fundadora [Fernanda Kelly](https://www.linkedin.com/in/fernanda-kelly-98a43b17a/).
      * [Apresentação em PDF](https://github.com/FernandaKelly/Palestras)

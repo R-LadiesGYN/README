@@ -16,24 +16,12 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos passados
 
-### 2019
-
-  1°. Meetup
-
-      * CEMEG
-
-
-  2°. Meetup
-
-      * Data Train
-
 ### 2020
 
-  3°. Meetup
+100. Primeiro item da lista
+     - Primeiro item da lista aninhada
 
-      * CEMEG
+### 2019
 
-
-  4°. Meetup
-
-      * Data Train
+100. Primeiro item da lista
+     - Primeiro item da lista aninhada

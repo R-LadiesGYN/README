@@ -16,7 +16,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos passados
 
-2019.
+### 2019
 
   1. 1° Meetup
 
@@ -27,7 +27,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
     * Data Train
 
-2020.
+### 2020
 
   3. 3° Meetup
 

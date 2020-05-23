@@ -2,36 +2,38 @@
 
 Fundada em 28 de Maio de 2019.
 
-[R-Ladies Goiânia]  [(https://www.rladiesgyn.com/)]
+[R-Ladies Goiânia](https://www.rladiesgyn.com/)
 
 ## Meetup
 
-O [Meetup] [(https://www.meetup.com/pt-BR/rladies-goiania/events/past/)] é a forma de divulgação dos eventos pertencentes a comunidade R-Ladies.
+O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma de divulgação dos eventos pertencentes a comunidade R-Ladies.
 
 ## Redes Sociais
 
-* [Twitter] [(https://twitter.com/rladiesgyn)]
+* [Twitter](https://twitter.com/rladiesgyn)
 
-* [Instagram] [(https://www.instagram.com/rladiesgyn/?hl=pt-br)]
+* [Instagram](https://www.instagram.com/rladiesgyn/?hl=pt-br)
 
 ## Eventos passados
 
 2019.
 
-1. 1° Meetup
+  1. 1° Meetup
 
-* CEMEG
+    * CEMEG
 
 
+  2. 2° Meetup
 
-2. 2° Meetup
-
-* Data Train
+    * Data Train
 
 2020.
 
-* 3° Meetup
+  3. 3° Meetup
 
-* 4° Meetup
+    * CEMEG
 
-* 5° Meetup
+
+  4. 4° Meetup
+
+    * Data Train

@@ -18,22 +18,22 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ### 2019
 
-  1. 1° Meetup
+  1°. Meetup
 
-    * CEMEG
+      * CEMEG
 
 
-  2. 2° Meetup
+  2°. Meetup
 
-    * Data Train
+      * Data Train
 
 ### 2020
 
-  3. 3° Meetup
+  3°. Meetup
 
-    * CEMEG
+      * CEMEG
 
 
-  4. 4° Meetup
+  4°. Meetup
 
-    * Data Train
+      * Data Train

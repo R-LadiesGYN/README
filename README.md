@@ -26,7 +26,6 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 2. [Mês do R](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
      * No dia 04/07/2020, às 14h, o R-Ladies GYN ofereceu o curso Introdução ao R.
      * Apresentado por [Larissa Sayuri](https://www.linkedin.com/in/larissa-sayuri-santos/).
-     * [Apresentação em PDF](https://github.com/FernandaKelly/Palestras)
      * [Códigos](https://github.com/R-LadiesGYN/MesDoR/blob/master/script_acompanhar.R)
      
 ### 2019

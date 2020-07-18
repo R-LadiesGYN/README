@@ -23,11 +23,23 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * Apresentado por nossa co-fundadora [Lais Franco](https://www.linkedin.com/in/lais-franco-/).
      * [Apresentação em PDF](https://github.com/FernandaKelly/Palestras)
      
-2. [Mês do R](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
+2. [Introdução ao R](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
      * No dia 04/07/2020, às 14h, o R-Ladies GYN ofereceu o curso Introdução ao R.
      * Apresentado por [Larissa Sayuri](https://www.linkedin.com/in/larissa-sayuri-santos/).
      * [Códigos](https://github.com/R-LadiesGYN/MesDoR/blob/master/script_acompanhar.R)
      * [Apresentação HTML](https://github.com/R-LadiesGYN/MesDoR)
+     
+3. [Oratória](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
+     * No dia 11/07/2020, às 14h, o R-Ladies GYN ofereceu o curso de Oratória.
+     * Apresentado por [Thaissa Candella](https://www.linkedin.com/in/thaissacandella/).
+     * [Apresentação PDF](https://github.com/R-LadiesGYN/MesDoR)    
+
+3. [Manipulação de Dados](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
+     * No dia 18/07/2020, às 14h, o R-Ladies GYN ofereceu o curso de Manipulação de Dados.
+     * Apresentado por [Daniel Pagotto](https://www.linkedin.com/in/daniel-do-prado-pagotto-bab62a50/).
+     * [Apresentação PDF](https://github.com/R-LadiesGYN/MesDoR) 
+     * [Códigos](https://github.com/R-LadiesGYN/MesDoR)
+     
      
 ### 2019
 

@@ -34,12 +34,18 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * Apresentado por [Thaissa Candella](https://www.linkedin.com/in/thaissacandella/).
      * [Apresentação PDF](https://github.com/R-LadiesGYN/MesDoR)    
 
-3. [Manipulação de Dados](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
+4. [Manipulação de Dados](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
      * No dia 18/07/2020, às 14h, o R-Ladies GYN ofereceu o curso de Manipulação de Dados.
      * Apresentado por [Daniel Pagotto](https://www.linkedin.com/in/daniel-do-prado-pagotto-bab62a50/).
      * [Apresentação PDF](https://github.com/R-LadiesGYN/MesDoR) 
      * [Códigos](https://github.com/R-LadiesGYN/MesDoR)
      
+     
+4. [SQL & R: um ótimo INNER JOIN](https://www.meetup.com/pt-BR/rladies-goiania/events/271509284/)
+     * No dia 25/07/2020, às 14h, o R-Ladies GYN ofereceu o curso de SQL & R.
+     * Apresentado por [Maria Marinho]().
+     * [Apresentação PDF](https://github.com/MaryMS) 
+     * [Códigos](https://github.com/MaryMS)
      
 ### 2019
 

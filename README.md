@@ -54,8 +54,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 6. [GITHUB](https://www.meetup.com/pt-BR/rladies-goiania/events/272469645/)
      * No dia 15/08/2020, às 14h, o R-Ladies GYN ofereceu o curso de GITHUB.
      * Apresentado por [Paloma Simões](https://www.linkedin.com/in/palomasimoes/).
-     * [Apresentação PDF]() 
-     * [Códigos]()
+     * [Apresentação](https://github.com/p-simoes/apresentacoes) 
+     
      
      
 ### 2019

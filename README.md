@@ -62,6 +62,12 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * Apresentado por [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/).
      * [Apresentação](https://beatrizmilz.github.io/slidesR/git_rstudio.html ) 
      
+
+8. [EXCEL](https://www.meetup.com/pt-BR/rladies-goiania/events/272720744/)
+     * No dia 29/08/2020, às 14H, o R-Ladies GYN ofereceu o curso de EXCEL.
+     * Apresentado por [Anderson Freitas]().
+     * [Material]() 
+     
      
      
 ### 2019

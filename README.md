@@ -23,7 +23,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 1. [Code Ladies Day em parceria com PyLadies e AI Girls](https://www.meetup.com/pt-BR/rladies-goiania/events/269130963/)
      * No dia 12/03/2020, às 19h, o R-Ladies GYN juntamente com as comunidades PyLadies Goiânia e AI Girls ofereceu um evento abordando temas voltados a análises, inteligência artificial e mulheres na computação.
-     * Apresentado por nossa co-fundadora [Lais Franco](https://www.linkedin.com/in/lais-franco-/).
+     * Apresentado por [Lais Franco](https://www.linkedin.com/in/lais-franco-/).
      * [Apresentação em PDF](https://github.com/FernandaKelly/Palestras)
      
 2. [Introdução ao R](https://www.meetup.com/pt-BR/rladies-goiania/events/271507708/)
@@ -65,7 +65,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 8. [EXCEL](https://www.meetup.com/pt-BR/rladies-goiania/events/272720744/)
      * No dia 29/08/2020, às 14H, o R-Ladies GYN ofereceu o curso de EXCEL.
-     * Apresentado por [Anderson Freitas]().
+     * Apresentado por [Anderson Freitas](www.freitas@gmail.com).
      * [Material]() 
      
      

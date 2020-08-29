@@ -65,7 +65,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 8. [EXCEL](https://www.meetup.com/pt-BR/rladies-goiania/events/272720744/)
      * No dia 29/08/2020, às 14H, o R-Ladies GYN ofereceu o curso de EXCEL.
-     * Apresentado por [Anderson Freitas](www.freitas@gmail.com).
+     * Apresentado por Anderson Freitas (e-mail: www.freitas@gmail.com).
      * [Material]() 
      
      

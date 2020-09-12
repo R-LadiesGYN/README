@@ -72,7 +72,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 9. [Visualização de Dados: Ggploteando no R](https://www.meetup.com/pt-BR/rladies-goiania/events/272868040/)
      * No dia 12/09/2020, às 14H, o R-Ladies GYN ofereceu o curso de Visualização de Dados: Ggploteando no R.
      * [Apresentado por Gabriela Borges](https://www.linkedin.com/in/gabriela-borges-469658157/).
-     * [Material de Apoio e Códigos](https://github.com/R-LadiesGYN/CodigosCursos) 
+     * [Material de Apoio e Códigos](https://github.com/gabiborges1/projetos/tree/master/presentations/rladies_gyn) 
      
      
      

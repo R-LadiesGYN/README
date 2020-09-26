@@ -76,7 +76,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      
      
  10. [Descomplicando o R Markdown](https://www.meetup.com/pt-BR/rladies-goiania/events/273112264/)
-     * No dia 12/09/2020, às 14H, o R-Ladies GYN ofereceu o curso Descomplicando o R Markdown.
+     * No dia 26/09/2020, às 14H, o R-Ladies GYN ofereceu o curso Descomplicando o R Markdown.
      * [Apresentado por Natália Souza](https://www.linkedin.com/in/nathtor4/).
      * [Material de Apoio e Códigos]() 
      

@@ -46,7 +46,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      
 5. [SQL & R: um ótimo INNER JOIN](https://www.meetup.com/pt-BR/rladies-goiania/events/271509284/)
      * No dia 25/07/2020, às 14h, o R-Ladies GYN ofereceu o curso de SQL & R.
-     * Apresentado por [Maria Marinho]().
+     * Apresentado por [Maria Marinho](https://www.linkedin.com/in/maria-marinho-ds/).
      * [Apresentação PDF](https://github.com/MaryMS) 
      * [Códigos](https://github.com/MaryMS)
      

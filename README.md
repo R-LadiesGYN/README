@@ -79,7 +79,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * No dia 26/09/2020, às 14H, o R-Ladies GYN ofereceu o curso Descomplicando o R Markdown.
      * Apresentado por [Natália Souza](https://www.linkedin.com/in/nathtor4/).
      * [Códigos](https://rstudio.cloud/project/1626679) 
-     *[Apresentação](https://docs.google.com/presentation/d/1QfZsvHILqfKmCwUem-tK3K418HguCQI_lFO9uLc_nJc/edit?usp=drivesdk)
+     * [Apresentação](https://docs.google.com/presentation/d/1QfZsvHILqfKmCwUem-tK3K418HguCQI_lFO9uLc_nJc/edit?usp=drivesdk)
      
      
      

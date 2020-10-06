@@ -81,6 +81,15 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * [Códigos](https://rstudio.cloud/project/1626679) 
      * [Apresentação](https://docs.google.com/presentation/d/1QfZsvHILqfKmCwUem-tK3K418HguCQI_lFO9uLc_nJc/edit?usp=drivesdk)
      
+ 11. [¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología?](https://www.eventbrite.cl/e/panel-de-que-hablamos-cuando-hablamos-de-inclusion-y-accesibilidad-tickets-123570022263)
+     * No dia 09/10/2020, às 15H, o R-Ladies GYN participou do evento LatinR com pauta em diversidade na tecnologia.
+     * Apresentado por [Fernanda Kelly](https://www.linkedin.com/in/fernanda-kelly-98a43b17a/).
+     
+     
+ 12. [Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis](https://www.meetup.com/pt-BR/rladies-goiania/events/273531145/)
+     * No dia 10/10/2020, às 15H, o R-Ladies GYN participou do evento LatinR sediando o curso com pauta no pacote xaringan.
+     * Apresentado por [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/) e [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/).
+    
      
      
 ### 2019

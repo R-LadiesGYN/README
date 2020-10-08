@@ -88,7 +88,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      
  12. [Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis](https://www.meetup.com/pt-BR/rladies-goiania/events/273531145/)
      * No dia 10/10/2020, às 15H, o R-Ladies GYN participou do evento LatinR sediando o curso com pauta no pacote xaringan.
-     * Apresentado por [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/) e [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/).
+     * Apresentado por [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/) e [Haydee Svab](https://www.linkedin.com/in/hsvab/).
     
      
      

@@ -94,7 +94,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
  13. [Introdução a Data Science](https://www.meetup.com/pt-BR/rladies-goiania/events/273911903/)
      * No dia 17/10/2020, às 14H, o R-Ladies GYN ofertou o curso intitulado por Meu Projeto Data Science.
      * Apresentado por [Roger Sampaio](https://www.linkedin.com/in/roger-csampaio/).
-     * [Códigos]()
+     * [Códigos](https://rstudio.cloud/project/1777119)
      * [Apresentação]()
      
     

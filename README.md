@@ -90,6 +90,13 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * No dia 10/10/2020, às 15H, o R-Ladies GYN participou do evento LatinR sediando o curso com pauta no pacote xaringan.
      * Apresentado por [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/) e [Haydee Svab](https://www.linkedin.com/in/hsvab/).
      * [Apresentação](https://r-ladies-sao-paulo.github.io/xaringan/)
+     
+ 13. [Introdução a Data Science](https://www.meetup.com/pt-BR/rladies-goiania/events/273911903/)
+     * No dia 17/10/2020, às 14H, o R-Ladies GYN ofertou o curso intitulado por Meu Projeto Data Science.
+     * Apresentado por [Roger Sampaio](https://www.linkedin.com/in/roger-csampaio/).
+     * [Códigos]()
+     *[Apresentação]()
+     
     
      
      

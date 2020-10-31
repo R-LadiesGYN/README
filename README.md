@@ -100,8 +100,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
  14. [Manipulação de Dados com DPLYR](https://www.meetup.com/pt-BR/rladies-goiania/events/274181825/)
      * No dia 31/10/2020, às 14H, o R-Ladies GYN ofertou o curso intitulado por Manipulação de Dados com DPLYR.
      * Apresentado por [Julia Hellen](https://www.linkedin.com/in/julia-hellen-ferreira-6a23b6140/).
-     * [Códigos]()
-     * [Apresentação]()
+     * [Códigos & Apresentação](https://rstudio.cloud/project/1847542)
+     
      
     
      

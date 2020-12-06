@@ -108,8 +108,14 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * [Códigos](https://rstudio.cloud/project/1961644)
      * [Apresentação](https://github.com/R-LadiesGYN/CodigosCursos/blob/master/INTRODU%C3%87%C3%83O%C3%80%20AN%C3%81LISEDE%20DADOS%20EPIDEMIOL%C3%93GICOS.pdf)
      
+ 
+16. [#PCA: Ggplot2, Plotly & Gganimante](https://www.meetup.com/pt-BR/rladies-goiania/events/274902564/)
+     * No dia 07/12/2020, às 19H, o R-Ladies GYN ofertou o "Papo com a Gente - #PCA" intitulado por Gggplot2, Plotly & Gganimate.
+     * Apresentado por [Daniel Pagotto](https://www.linkedin.com/in/daniel-do-prado-pagotto-bab62a50/).
+     * [Códigos]()
+     * [Apresentação]()  
      
-    
+         
      
      
 ### 2019

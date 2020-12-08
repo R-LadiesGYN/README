@@ -113,7 +113,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * No dia 07/12/2020, às 19H, o R-Ladies GYN ofertou o "Papo com a Gente - #PCA" intitulado por Gggplot2, Plotly & Gganimate.
      * Apresentado por [Daniel Pagotto](https://www.linkedin.com/in/daniel-do-prado-pagotto-bab62a50/).
      * [Códigos](https://rstudio.cloud/project/1998508)
-     * [Apresentação]()  
+     * [Apresentação](https://github.com/R-LadiesGYN/CodigosCursos/blob/master/curso-datavis_files.zip)  
      
          
      

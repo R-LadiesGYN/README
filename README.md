@@ -114,6 +114,12 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      * Apresentado por [Daniel Pagotto](https://www.linkedin.com/in/daniel-do-prado-pagotto-bab62a50/).
      * [Códigos](https://rstudio.cloud/project/1998508)
      * [Apresentação](https://github.com/R-LadiesGYN/CodigosCursos/blob/master/curso-datavis_files.zip)  
+ 
+17. [Mineração de Texto com R](https://www.meetup.com/pt-BR/rladies-goiania/events/275028688/)
+     * No dia 12/12/2020, às 14H, o R-Ladies GYN ofertou o curso de Mineração de Texto com R.
+     * Apresentado por [Suzana De Lima](https://www.linkedin.com/in/suzana-de-lima-13a207188/).
+     * [Códigos]()
+     * [Apresentação]()  
      
          
      

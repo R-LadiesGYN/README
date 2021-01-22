@@ -30,6 +30,31 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 3. [R Intermediário]
     * 06/03/2021
 
+4. [EM BREVE]
+   * 27/03/2021
+   
+5. [EM BREVE]
+   * 10/04/2021
+
+6 [EM BREVE]
+   * 24/04/2021
+
+7 [EM BREVE]
+   * 15/05/2021
+
+8. [EM BREVE]
+   * 29/05/2021
+
+9. [EM BREVE]
+   * 12/06/2021
+
+10. [EM BEREVE]
+   * 26/06/2021
+
+
+
+
+
 
 ### 2020
 

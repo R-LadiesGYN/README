@@ -22,7 +22,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 ### 2021
 
 1. [Uma breve conversa sobre o RStudio e suas funcionalidades]
-    * 19/02/2021
+    * 20/02/2021
 
 2. [Introdução ao R]
     * 27/02/2021

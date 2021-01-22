@@ -48,7 +48,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 9. [EM BREVE]
    * 12/06/2021
 
-10. [EM BEREVE]
+10. [EM BREVE]
    * 26/06/2021
 
 

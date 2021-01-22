@@ -17,7 +17,19 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 * [Linkedin](https://www.linkedin.com/in/r-ladies-gyn-017898195/)
 
 
-## Eventos passados
+## Eventos 
+
+### 2021
+
+1. [Uma breve conversa sobre o RStudio e suas funcionalidades]
+    * 19/02/2021
+
+2. [Introdução ao R]
+    * 27/02/2021
+
+3. [R Intermediário]
+    * 06/03/2021
+
 
 ### 2020
 

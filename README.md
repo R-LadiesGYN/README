@@ -36,10 +36,10 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 5. [EM BREVE]
    * 10/04/2021
 
-6 [EM BREVE]
+6. [EM BREVE]
    * 24/04/2021
 
-7 [EM BREVE]
+7. [EM BREVE]
    * 15/05/2021
 
 8. [EM BREVE]

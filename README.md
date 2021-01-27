@@ -30,25 +30,25 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 3. [R Intermediário]
     * 06/03/2021
 
-4. [EM BREVE]
+4. [Praticando ETL com TIDYR]
    * 27/03/2021
    
-5. [EM BREVE]
+5. [Bigdata com Spark]
    * 10/04/2021
 
-6. [EM BREVE]
+6. [RMarkdown e suas funcionalidades]
    * 24/04/2021
 
-7. [EM BREVE]
+7. [Descobrindo o Shiny]
    * 15/05/2021
 
-8. [EM BREVE]
+8. [Regressão Linear + Regressão Logística]
    * 29/05/2021
 
-9. [EM BREVE]
+9. [Machine Leaning: Árvores de Decisões]
    * 12/06/2021
 
-10. [EM BREVE]
+10. [Deep Learning: O que é?]
    * 26/06/2021
 
 

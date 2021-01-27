@@ -21,34 +21,34 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ### 2021
 
-1. [Uma breve conversa sobre o RStudio e suas funcionalidades]
+1. [Uma breve conversa sobre o RStudio e suas funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * 20/02/2021
 
-2. [Introdução ao R]
+2. [Introdução ao R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * 27/02/2021
 
-3. [R Intermediário]
+3. [R Intermediário](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * 06/03/2021
 
-4. [Praticando ETL com TIDYR]
+4. [Praticando ETL com TIDYR](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 27/03/2021
    
-5. [Bigdata com Spark]
+5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021
 
-6. [RMarkdown e suas funcionalidades]
+6. [RMarkdown e suas funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 24/04/2021
 
-7. [Descobrindo o Shiny]
+7. [Descobrindo o Shiny](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 15/05/2021
 
-8. [Regressão Linear + Regressão Logística]
+8. [Regressão Linear + Regressão Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 29/05/2021
 
-9. [Machine Leaning: Árvores de Decisões]
+9. [Machine Leaning: Árvores de Decisões](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 12/06/2021
 
-10. [Deep Learning: O que é?]
+10. [Deep Learning: O que é?](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 26/06/2021
 
 

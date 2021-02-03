@@ -21,7 +21,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ### 2021
 
-1. [Uma breve conversa sobre o RStudio e suas funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+1. [RStudio e suas funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * No dia 20/02/2021, ás 14h
    
 2. [Introdução ao R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

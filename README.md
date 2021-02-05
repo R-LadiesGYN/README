@@ -30,7 +30,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 3. [R Intermediário](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * 06/03/2021
 
-4. [Praticando ETL com TIDYR](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+4. [Dply & tidyr: a dupla infalível](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 27/03/2021
    
 5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

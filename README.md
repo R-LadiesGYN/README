@@ -31,7 +31,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     * 06/03/2021
 
 4. [Dply & tidyr: a dupla infalível](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * 27/03/2021
+   * 28/03/2021
    
 5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021

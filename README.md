@@ -97,7 +97,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 7. [GIT & RSTUDIO](https://www.meetup.com/pt-BR/rladies-goiania/events/272601746/)
      * No dia 27/08/2020, às 19:30, o R-Ladies GYN ofereceu o curso de GIT & RSTUDIO.
      * Apresentado por [Beatriz Milz](https://www.linkedin.com/in/beatrizmilz/).
-     * [Apresentação](https://beatrizmilz.github.io/slidesR/git_rstudio.html ) 
+     * [Apresentação](https://beatrizmilz.github.io/RLadies-Git-RStudio-2019/#1 ) 
      
 
 8. [EXCEL](https://www.meetup.com/pt-BR/rladies-goiania/events/272720744/)

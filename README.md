@@ -22,7 +22,9 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 ### 2021
 
 1. [RStudio e suas funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * No dia 20/02/2021, ás 14h
+    * No dia 20/02/2021, ás 14h, a R-Ladies GYN ofereceu o curso de RStudio e suas funcionalidades.
+    * Apresentado por [Amanda Vieira](https://www.linkedin.com/in/amanda-vieira-1462a2126/) & [Stefânia Ventura](stefania.ventura2@gmail.com)
+    * [Como instalar o R](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/commit/3749b2a37dee8a9df343e9d8c8e3cfe1599eeedb)
    
 2. [Introdução ao R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 27/02/2021, ás 14h

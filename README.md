@@ -29,15 +29,15 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 2. [Introdução ao R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 27/02/2021, ás 14h, a R-Ladies GYN ofereceu o curso Introdução ao R.
     * Apresentado por [Amanda Vieira](https://www.linkedin.com/in/amanda-vieira-1462a2126/) & [Stefânia Ventura](stefania.ventura2@gmail.com)
-    * [Slides]()
-    * [Códigos]()
+    * [Slides](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos)
+    * [Códigos](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos)
    
 
 3. [R Intermediário](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * 06/03/2021
 
 4. [Dply & tidyr: a dupla infalível](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * 28/03/2021
+   * 20/03/2021
    
 5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021

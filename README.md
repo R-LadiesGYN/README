@@ -32,12 +32,13 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     * [Slides](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos)
     * [Códigos](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos)
    
-
 3. [R Intermediário](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-    * 06/03/2021
+    * No dia 06/03/2021, ás 14h, a R-Ladies GYN ofereceu o curso R Intermediário.
+    * Apresentado por [Amanda Vieira](https://www.linkedin.com/in/amanda-vieira-1462a2126/).
+    * [Códigos](https://rstudio.cloud/project/2248174)
 
 4. [Dply & tidyr: a dupla infalível](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * 20/03/2021
+   * 21/03/2021
    
 5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021
@@ -48,7 +49,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 7. [Descobrindo o Shiny](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 15/05/2021
 
-8. [Regressão Linear + Regressão Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+8. [O Universo da Regressão Linear e Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 29/05/2021
 
 9. [Machine Leaning: Árvores de Decisões](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

@@ -54,10 +54,10 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 8. [O Universo da Regressão Linear e Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 29/05/2021
 
-9. [Machine Leaning: Árvores de Decisões](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+9. [Machine Leaning: Árvores de Decisão](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 12/06/2021
 
-10. [Deep Learning: O que é?](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+10. [Deep Learning e suas Aplicações?](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 26/06/2021
 
 

@@ -40,7 +40,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 4. [Dply & tidyr: a dupla infalível](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 21/03/2021, ás 14h, a R-Ladies GYN ofereceu o curso Dplyr & Tidyr: a dupla implacável.
    * Apresentado por [Nicole Luduvice](https://www.linkedin.com/in/nicole-luduvice-9a6379197/).
-   * [Materiais](https://rstudio.cloud/project/2334875).
+   * [Códigos](https://rstudio.cloud/project/2334875).
+   * [Slides]()
    
 5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021

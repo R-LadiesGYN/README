@@ -41,7 +41,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 21/03/2021, ás 14h, a R-Ladies GYN ofereceu o curso Dplyr & Tidyr: a dupla implacável.
    * Apresentado por [Nicole Luduvice](https://www.linkedin.com/in/nicole-luduvice-9a6379197/).
    * [Códigos](https://rstudio.cloud/project/2334875).
-   * [Slides]()
+   * [Slides](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/slide.pdf)
    
 5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021

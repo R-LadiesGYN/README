@@ -43,7 +43,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Códigos](https://rstudio.cloud/project/2334875).
    * [Slides](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/slide.pdf)
    
-5. [Bigdata com Spark](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+5. [Bigdata com Spark - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021
 
 6. [Flexdashboard: painéis fáceis e flexíveis](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

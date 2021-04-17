@@ -46,7 +46,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 5. [Bigdata com Spark - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021
 
-6. [Flexdashboard: painéis fáceis e flexíveis](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+6. [Flexdashboard: Painéis interativos utilizando R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 24/04/2021
 
 7. [Descobrindo o Shiny](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

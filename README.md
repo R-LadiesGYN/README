@@ -47,18 +47,20 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * 10/04/2021
 
 6. [Flexdashboard: Painéis interativos utilizando R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * 24/04/2021
-
-7. [Descobrindo o Shiny](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 24/04/2021, ás 14h, a R-Ladies GYN ofereceu o curso Flexdashboard: Painéis interativos utilizando R.
+   * Apresentado por [Iara Passos](https://www.linkedin.com/in/iara-passos-04911098/).
+   * [Códigos](https://rstudio.cloud/project/2481217).
+  
+7. [Desvendando o Shiny](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 15/05/2021
 
-8. [O Universo da Regressão Linear e Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+8. [Regressão Linear e Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 29/05/2021
 
 9. [Machine Leaning: Árvores de Decisão](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 12/06/2021
 
-10. [Deep Learning e suas Aplicações?](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+10. [Deep Learning e suas Aplicações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 26/06/2021
 
 

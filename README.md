@@ -62,7 +62,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * 12/06/2021
 
 10. [Deep Learning e suas Aplicações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * 26/06/2021
+      * 26/06/2021
 
 
 

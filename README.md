@@ -52,7 +52,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Códigos](https://rstudio.cloud/project/2481217).
    * [Link para estudos](https://rmarkdown.rstudio.com/flexdashboard/index.html)
   
-7. [Desvendando o Shiny](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+7. [Shiny: Construindo aplicativos web interativos](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 15/05/2021
 
 8. [Regressão Linear e Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

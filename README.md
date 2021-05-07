@@ -154,7 +154,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
      
 15. [Análise de Dados Epidemiológicos](https://www.meetup.com/pt-BR/rladies-goiania/events/274487649/)
      * No dia 28/11/2020, às 14H, o R-Ladies GYN ofertou o curso intitulado por Análise de Dados Epidemiológicos.
-     * Apresentado por [Hayaha Cavenague](https://www.linkedin.com/in/hayalasouza/).
+     * Apresentado por [Hayala Cavenague](https://www.linkedin.com/in/hayalasouza/).
      * [Códigos](https://rstudio.cloud/project/1961644)
      * [Apresentação](https://github.com/R-LadiesGYN/CodigosCursos/blob/master/INTRODU%C3%87%C3%83O%C3%80%20AN%C3%81LISEDE%20DADOS%20EPIDEMIOL%C3%93GICOS.pdf)
      

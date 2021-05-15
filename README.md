@@ -56,7 +56,10 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 15/05/2021, ás 14h, a R-Ladies GYN ofereceu o curso Shiny: Construindo aplicativos web interativos.
    * Apresentado por [Júlia Maria](https://www.linkedin.com/in/juliamdsn1).
    * [Códigos](https://rstudio.cloud/project/2554121).
+   * [Apresentação](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/ApresentacaoRLadies.pdf)
+   * [Link para estudos](https://shiny.rstudio.com/)
    * [Livro Mastering Shiny](https://mastering-shiny.org/)
+   
 
 8. [Regressão Linear e Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 29/05/2021

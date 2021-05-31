@@ -62,8 +62,11 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Livro Mastering Shiny](https://mastering-shiny.org/)
    
 
-8. [Regressão Linear e Logística](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * 29/05/2021
+8. [Regressão com Tidymodels](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 29/05/2021, ás 14h, a R-Ladies GYN ofereceu o curso Regressão com Tidymodels.
+   * Apresentado por [Viviane Sanchez](https://www.linkedin.com/in/vivianesanchez/).
+   * [Apresentação]().
+   
 
 9. [Machine Leaning: Árvores de Decisão](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 12/06/2021

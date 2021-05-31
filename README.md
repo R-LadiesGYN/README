@@ -65,7 +65,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 8. [Regressão com Tidymodels](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 29/05/2021, ás 14h, a R-Ladies GYN ofereceu o curso Regressão com Tidymodels.
    * Apresentado por [Viviane Sanchez](https://www.linkedin.com/in/vivianesanchez/).
-   * [Apresentação]().
+   * [Apresentação](https://sanchezvivi.shinyapps.io/tidymodels-regression/).
    
 
 9. [Machine Leaning: Árvores de Decisão](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

@@ -19,7 +19,11 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos 
 
-### 2021
+
+### 2021 - 2° semestre
+
+
+### 2021 - 1° semestre
 
 1. [RStudio e suas funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * No dia 20/02/2021, ás 14h, a R-Ladies GYN ofereceu o curso de RStudio e suas funcionalidades.
@@ -68,17 +72,6 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Github Viviane Sanchez](https://github.com/sanchezvivi/r-ladies-gyn-regression/)
    * [Apresentação](https://sanchezvivi.shinyapps.io/tidymodels-regression/).
    
-
-9. [Machine Leaning: Árvores de Decisão](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * 12/06/2021
-
-10. [Deep Learning e suas Aplicações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-      * 26/06/2021
-
-
-
-
-
 
 ### 2020
 

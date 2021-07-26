@@ -22,6 +22,12 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ### 2021 - 2° semestre
 
+# Agosto
+# Setembro
+# Outubro
+# Novembro
+# Dezembro
+
 
 ### 2021 - 1° semestre
 

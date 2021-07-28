@@ -40,7 +40,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     
 #### Outubro
 
-1. [RSpacial: Análise de Paisagens](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+1. [R para dados espaciais: Análise de Paisagens](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 09/10/2021
 
 2. [RStudio e Suas Funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 

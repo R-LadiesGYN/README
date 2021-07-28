@@ -40,7 +40,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     
 #### Outubro
 
-1. [Visualização de Dados](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+1. [RSpacial: Análise de Paisagens](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 09/10/2021
 
 2. [RStudio e Suas Funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
@@ -64,7 +64,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 1. [Análise Multivariada: Cluster](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 13/11/2021
     
-2. [Análise Multivariada: Análise Fatorial](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+2. [Análise Multivariada: Análise Fatorial (PCA)](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 27/11/2021
 
 #### Dezembro

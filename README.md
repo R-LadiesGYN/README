@@ -16,6 +16,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 * [Linkedin](https://www.linkedin.com/in/r-ladies-gyn-017898195/)
 
+* [Youtube](https://www.youtube.com/channel/UCvt6lv8yMrBV8YgsAoQykHw)
+
 
 ## Eventos 
 

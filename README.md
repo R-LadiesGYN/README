@@ -33,10 +33,10 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 #### Setembro
 
 1. [Conectando GitHub ao RStudio](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 21/08/2021
+    * 11/09/2021
     
 2. [GitHub Actions](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 28/08/2021
+    * 18/09/2021
     
 #### Outubro
 

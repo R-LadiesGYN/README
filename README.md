@@ -26,10 +26,10 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 #### Agosto
 
-1. [Introdução a SQL utilizando MySQL](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+1. [Introdução a SQL utilizando MySQL - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 21/08/2021
     
-2. [Conectando SQL ao RStudio](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+2. [Conectando SQL ao RStudio - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 28/08/2021
     
 #### Setembro

@@ -35,7 +35,10 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 #### Setembro
 
 1. [Conectando GitHub ao RStudio](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 11/09/2021
+   * No dia 11/09/2021, ás 09h, a R-Ladies GYN ofereceu o curso de Conectando GitHub ao RStudio.
+   * Apresentado por [Beatriz Milz](https://beatrizmilz.com/about/).
+   * [Material](https://beatrizmilz.com/talk/2021-git-e-github-gyn/)
+   
     
 2. [GitHub Actions](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 18/09/2021

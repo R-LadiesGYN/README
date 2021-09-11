@@ -36,6 +36,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 1. [Conectando GitHub ao RStudio](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 11/09/2021
+    * [Material disponível neste link](https://beatrizmilz.com/talk/2021-git-e-github-gyn/)
     
 2. [GitHub Actions](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 18/09/2021

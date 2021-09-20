@@ -41,7 +41,9 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    
     
 2. [GitHub Actions](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 18/09/2021
+   * No dia 18/09/2021, ás 14:30m, a R-Ladies GYN ofereceu o curso de Introdução ao GitHub Actions.
+   * Apresentado por [Beatriz Milz](https://beatrizmilz.com/about/) e [Julio Trecenti](https://www.linkedin.com/in/jtrecenti/?originalSubdomain=br)
+   * [Material](https://curso-r.github.io/rladies-GYN-github-actions/#1)
     
 #### Outubro
 

@@ -50,7 +50,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 1. [introdução a Análise de Paisagens](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
    * No dia 09/10/2021, ás 14h, a R-Ladies GYN ofereceu o curso de Introdução a Análise de Paisagens.
    * Apresentado por [Lais Brasileiro](https://twitter.com/scoutlais).
-   * [Material]()
+   * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Curso_Intro_Paisagens.zip)
 
 2. [RStudio e Suas Funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * A R-Ladies GYN+ participará da II Semana da Estatística UFSCar/USP Online - SEst 2021 

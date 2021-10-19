@@ -52,33 +52,33 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Lais Brasileiro](https://twitter.com/scoutlais).
    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Curso_Intro_Paisagens.zip)
 
-2. [RStudio e Suas Funcionalidades](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+2. [RStudio e Suas Funcionalidades - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * A R-Ladies GYN+ participará da II Semana da Estatística UFSCar/USP Online - SEst 2021 
     * 19/10/2021
     
-3. [Introdução ao R- Parte 1](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+3. [Introdução ao R- Parte 1 - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * A R-Ladies GYN+ participará da II Semana da Estatística UFSCar/USP Online - SEst 2021 
     * 20/10/2021
 
-4. [Introdução ao R- Parte 2](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+4. [Introdução ao R- Parte 2 - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * A R-Ladies GYN+ participará da II Semana da Estatística UFSCar/USP Online - SEst 2021 
     * 21/10/2021
 
-5. [Visualização de Dados](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+5. [Visualização de Dados - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 23/10/2021
 
 
 #### Novembro
 
-1. [Análise Multivariada: Cluster](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+1. [Análise Multivariada: Cluster - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 13/11/2021
     
-2. [Análise Multivariada: Análise Fatorial (PCA)](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+2. [Análise Multivariada: Análise Fatorial (PCA) - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 27/11/2021
 
 #### Dezembro
 
-1. [Evento de fim de ano](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+1. [Evento de fim de ano - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * 11/12/2021
 
 

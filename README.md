@@ -24,13 +24,6 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ### 2021 - 2° semestre
 
-#### Agosto
-
-1. [Introdução a SQL utilizando MySQL - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 21/08/2021
-    
-2. [Conectando SQL ao RStudio - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 28/08/2021
     
 #### Setembro
 
@@ -52,35 +45,11 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Lais Brasileiro](https://twitter.com/scoutlais).
    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Curso_Intro_Paisagens.zip)
 
-2. [RStudio e Suas Funcionalidades - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * A R-Ladies GYN+ participará da II Semana da Estatística UFSCar/USP Online - SEst 2021 
-    * 19/10/2021
-    
-3. [Introdução ao R- Parte 1 - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * A R-Ladies GYN+ participará da II Semana da Estatística UFSCar/USP Online - SEst 2021 
-    * 20/10/2021
-
-4. [Introdução ao R- Parte 2 - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * A R-Ladies GYN+ participará da II Semana da Estatística UFSCar/USP Online - SEst 2021 
-    * 21/10/2021
-
-5. [Visualização de Dados - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 23/10/2021
-
-
-#### Novembro
-
-1. [Análise Multivariada: Cluster - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 13/11/2021
-    
-2. [Análise Multivariada: Análise Fatorial (PCA) - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 27/11/2021
-
 #### Dezembro
 
-1. [Evento de fim de ano - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * 11/12/2021
-
+1. [Análise de Dados com Redes em R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+   * No dia 27/11/2021, ás 9h, a R-Ladies GYN ofereceu o curso de Análise de Dados com Redes em R.
+   * Apresentado por [Macel Ribeiro](http://mribeirodantas.me/).
 
 
 ### 2021 - 1° semestre

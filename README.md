@@ -50,6 +50,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 1. [Análise de Dados com Redes em R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
    * No dia 27/11/2021, ás 9h, a R-Ladies GYN ofereceu o curso de Análise de Dados com Redes em R.
    * Apresentado por [Marcel Ribeiro-Dantas](http://mribeirodantas.me/).
+   * [Material do Curso](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Curso%20de%20Redes%20em%20R.zip)
 
 
 ### 2021 - 1° semestre

@@ -21,6 +21,17 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos 
 
+### 2022 - 1° semestre
+
+1. [Introdução ao RBio e Experimentos](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+    * No dia 05/03/2022
+       
+2. [Introdução a WebScraping](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+    * No dia 26/03/2022 
+    
+    
+   
+
 
 ### 2021 - 2° semestre
 

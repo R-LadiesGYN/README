@@ -25,8 +25,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 1. [Introdução ao RBio e Experimentos](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
     * No dia 05/03/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Introdução ao RBio e Experimentos.
-   * Apresentado por [Dthenifer](https://beatrizmilz.com/about/).
-   * [Material](https://beatrizmilz.com/talk/2021-git-e-github-gyn/)
+   * Apresentado por [Dthenifer]().
+   * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/introducaoRBIOEXPERIMENTOS.zip)
        
 2. [Introdução a Web Scraping](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 26/03/2022 

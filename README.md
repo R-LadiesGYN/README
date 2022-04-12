@@ -24,12 +24,14 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 ### 2022 - 1° semestre
 
 1. [Introdução ao RBio e Experimentos](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
-    * No dia 05/03/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Introdução ao RBio e Experimentos.
+   * No dia 05/03/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Introdução ao RBio e Experimentos.
    * Apresentado por [Dthenifer]().
    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/introducaoRBIOEXPERIMENTOS.zip)
        
 2. [Introdução a Web Scraping](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-    * No dia 26/03/2022 
+    * No dia 26/03/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Introdução a Web Scraping.
+    * * Apresentado por [Juliana Sena](https://www.linkedin.com/in/juliana-ss/).
+    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Web%20Scrapping.rar) 
         
 3. [Análises Aplicadas a Saúde Pública](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 23/04/2022

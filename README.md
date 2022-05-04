@@ -33,13 +33,11 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     * Apresentado por [Juliana Sena](https://www.linkedin.com/in/juliana-ss/).
     * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Web%20Scrapping.rar) 
         
-3. [Análises Aplicadas a Saúde Pública](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-    * No dia 23/04/2022
-
-4. [Introdução a Análise Espacial](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-    * No dia 14/05/2022
+3. [Introdução a Análise Espacial](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+    * No dia 04/06/2022
     
-    
+4. [Análises Aplicadas a Saúde Pública](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+    * No dia 18/06/2022    
    
 
 

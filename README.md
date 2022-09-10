@@ -21,6 +21,23 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos 
 
+### 2022 - 2° semestre
+
+1. [Linguagem R como ferramenta de SIG](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
+   * No dia 10/09/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Linguagem R como ferramenta de SIG.
+   * Apresentado por [Lais Brasileiro](https://twitter.com/scoutlais).
+   * [Material]()
+       
+2. [Universo Tidyverse: Transformando dados com o pacote dplyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+    * No dia 24/09/2022
+        
+3. [Metanálise: Uma introdução a partir dos pacotes metaDigitise e metafor](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+    * No dia 08/10/2022
+    
+4. [Universo Tidyverse: Do R para SQL com o pacote dbplyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+    * No dia 12/11/2022
+    
+    
 ### 2022 - 1° semestre
 
 1. [Introdução ao RBio e Experimentos](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
@@ -32,13 +49,6 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     * No dia 26/03/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Introdução a Web Scraping.
     * Apresentado por [Juliana Sena](https://www.linkedin.com/in/juliana-ss/).
     * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Web%20Scrapping.rar) 
-        
-3. [Introdução a Análise Espacial](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-    * No dia 04/06/2022
-    
-4. [Análises Aplicadas a Saúde Pública](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-    * No dia 18/06/2022    
-   
 
 
 ### 2021 - 2° semestre

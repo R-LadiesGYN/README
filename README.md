@@ -31,7 +31,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 2. [Universo Tidyverse: Transformando dados com o pacote dplyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 24/09/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Linguagem R como ferramenta de SIG.
    * Apresentado por [Julia Helen](https://www.linkedin.com/in/juliahellenferreira/).
-   * [Material](https://drive.google.com/file/d/1nEd8z-5xliCIXprDzyJG8wvDfg16ikP5/view)
+   * [Material](https://rstudio.cloud/content/1847542)
         
 3. [Metanálise: Uma introdução a partir dos pacotes metaDigitise e metafor](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 29/10/2022

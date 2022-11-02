@@ -36,7 +36,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 3. [Metanálise: Uma introdução a partir dos pacotes metaDigitise e metafor](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 29/10/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso Metanálise: Uma introdução a partir dos pacotes metaDigitise e metafor.
     * Apresentado por [Amanda Vieira]([https://www.linkedin.com/in/juliahellenferreira/](https://www.linkedin.com/in/amanda-vieira-1462a2126/)).
-    * [Material]()
+    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/commit/98a6947fba557e6b8b21a15109945ab7dd890a25)
     
 4. [Universo Tidyverse: Do R para SQL com o pacote dbplyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 12/11/2022

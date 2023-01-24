@@ -21,6 +21,28 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos 
 
+### 2023 - 1° semestre
+
+1. [PODE SER VOCÊ]) 
+   * No dia 11/03/2023
+   
+2. [PODE SER VOCÊ]) 
+   * No dia 25/03/2023
+   
+3. [PODE SER VOCÊ]) 
+   * No dia 15/04/2023
+
+4. [PODE SER VOCÊ]) 
+   * No dia 29/04/2023
+   
+5. [PODE SER VOCÊ]) 
+   * No dia 20/05/2023
+   
+6. [PODE SER VOCÊ]) 
+   * No dia 17/06/2023
+       
+   
+    
 ### 2022 - 2° semestre
 
 1. [Linguagem R como ferramenta de SIG](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
@@ -39,8 +61,9 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/commit/98a6947fba557e6b8b21a15109945ab7dd890a25)
     
 4. [Universo Tidyverse: Do R para SQL com o pacote dbplyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-    * No dia 12/11/2022
-    
+    * No dia 12/11/2022, ÁS 14H, a R-Ladies GYN+ ofereceu o curso de Universo Tidyverse: Do R para SQL com o pacote dbplyr.
+    * Apresentado por [Walmes Zeviani](http://leg.ufpr.br/~walmes/home/).
+    * [Material](https://www.youtube.com/watch?v=tE88RxsUOuc)
     
 ### 2022 - 1° semestre
 

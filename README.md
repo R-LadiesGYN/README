@@ -32,8 +32,9 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 3. [PODE SER VOCÊ]) 
    * No dia 15/04/2023
 
-4. [PODE SER VOCÊ]) 
+4. Introdução ao pacote purrr
    * No dia 29/04/2023
+   * Apresentado por [Beatriz Milz](https://beamilz.com)
    
 5. [PODE SER VOCÊ]) 
    * No dia 20/05/2023

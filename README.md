@@ -23,13 +23,13 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ### 2023 - 1° semestre
 
-1. [PODE SER VOCÊ]) 
+1. [PODE SER VOCÊ] 
    * No dia 11/03/2023
    
-2. [PODE SER VOCÊ]) 
+2. [PODE SER VOCÊ]
    * No dia 25/03/2023
    
-3. [Introdução ao Quarto]) 
+3. Introdução ao Quarto
    * No dia 15/04/2023
    * Apresentado por [Ariane Hayana](https://www.linkedin.com/in/arianehayana/)
 
@@ -37,10 +37,10 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 29/04/2023
    * Apresentado por [Beatriz Milz](https://beamilz.com)
    
-5. [PODE SER VOCÊ]) 
+5. [PODE SER VOCÊ]
    * No dia 20/05/2023
    
-6. [PODE SER VOCÊ]) 
+6. [PODE SER VOCÊ]
    * No dia 17/06/2023
        
    

@@ -26,8 +26,9 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 1. [PODE SER VOCÊ] 
    * No dia 11/03/2023
    
-2. [PODE SER VOCÊ]
+2. [Dados em UX/UI]
    * No dia 25/03/2023
+   * Apresentado por [Adriana Tamie](https://www.linkedin.com/in/adriana-akamine/)
    
 3. Introdução ao Quarto
    * No dia 15/04/2023

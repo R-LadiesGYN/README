@@ -23,18 +23,15 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ### 2023 - 1° semestre
 
-1. [PODE SER VOCÊ] 
-   * No dia 11/03/2023
-   
-2. [Dados em UX/UI]
-   * No dia 25/03/2023
+1. [Dados em UX/UI]
+   * No dia 25/03/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso deDados em UX.
    * Apresentado por [Adriana Tamie](https://www.linkedin.com/in/adriana-akamine/)
    
-3. Introdução ao Quarto
+2. Introdução ao Quarto
    * No dia 15/04/2023
    * Apresentado por [Ariane Hayana](https://www.linkedin.com/in/arianehayana/)
 
-4. Introdução ao pacote purrr
+3. Introdução ao pacote purrr
    * No dia 29/04/2023
    * Apresentado por [Beatriz Milz](https://beamilz.com)
    

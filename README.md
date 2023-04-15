@@ -33,12 +33,13 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Ariane Hayana](https://www.linkedin.com/in/arianehayana/)
    * [Slides](https://ariane.quarto.pub/rladies_goiania)
    * [Códigos](https://posit.cloud/content/5783129)
+   * [Youtube](https://www.youtube.com/watch?v=XuxyzBhDvLg)
 
 3. Introdução ao pacote purrr
    * No dia 29/04/2023
    * Apresentado por [Beatriz Milz](https://beamilz.com)
    
-5. [PODE SER VOCÊ]
+5. [gtsummary: uma nova maneira de criar tabelas elegantes e flexíveis]
    * No dia 20/05/2023
    
 6. [PODE SER VOCÊ]

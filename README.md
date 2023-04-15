@@ -24,12 +24,15 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 ### 2023 - 1° semestre
 
 1. [Dados em UX/UI]
-   * No dia 25/03/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso deDados em UX.
+   * No dia 25/03/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso Dados em UX.
    * Apresentado por [Adriana Tamie](https://www.linkedin.com/in/adriana-akamine/)
+   * [Youtube](https://www.youtube.com/watch?v=sMUZpJMafbM)
    
 2. Introdução ao Quarto
-   * No dia 15/04/2023
+   * No dia 15/04/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso Introdução ao Quarto.
    * Apresentado por [Ariane Hayana](https://www.linkedin.com/in/arianehayana/)
+   * [Slides](https://ariane.quarto.pub/rladies_goiania)
+   * [Códigos](https://posit.cloud/content/5783129)
 
 3. Introdução ao pacote purrr
    * No dia 29/04/2023
@@ -49,21 +52,24 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 10/09/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Linguagem R como ferramenta de SIG.
    * Apresentado por [Lais Brasileiro](https://twitter.com/scoutlais).
    * [Material](https://drive.google.com/file/d/1UhLPL4kP3VS2fUHeLBgkHvdrGN2_6lYV/view)
+   * [Youtube](https://www.youtube.com/watch?v=rOq2qhKn3sU)
        
 2. [Universo Tidyverse: Transformando dados com o pacote dplyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 24/09/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Linguagem R como ferramenta de SIG.
    * Apresentado por [Julia Helen](https://www.linkedin.com/in/juliahellenferreira/).
    * [Material](https://rstudio.cloud/content/1847542)
+   * [Youtube](https://www.youtube.com/watch?v=-w15pUwvDfs)
         
 3. [Metanálise: Uma introdução a partir dos pacotes metaDigitise e metafor](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 29/10/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso Metanálise: Uma introdução a partir dos pacotes metaDigitise e metafor.
     * Apresentado por [Amanda Vieira]([https://www.linkedin.com/in/juliahellenferreira/](https://www.linkedin.com/in/amanda-vieira-1462a2126/)).
     * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/commit/98a6947fba557e6b8b21a15109945ab7dd890a25)
+    * [Youtube](https://www.youtube.com/watch?v=ApA4l-2uD4I&t=4235s)
     
 4. [Universo Tidyverse: Do R para SQL com o pacote dbplyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 12/11/2022, ÁS 14H, a R-Ladies GYN+ ofereceu o curso de Universo Tidyverse: Do R para SQL com o pacote dbplyr.
     * Apresentado por [Walmes Zeviani](http://leg.ufpr.br/~walmes/home/).
-    * [Material](https://www.youtube.com/watch?v=tE88RxsUOuc)
+    * [Youtube](https://www.youtube.com/watch?v=tE88RxsUOuc)
     
 ### 2022 - 1° semestre
 
@@ -71,11 +77,13 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 05/03/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Introdução ao RBio e Experimentos.
    * Apresentado por [Dthenifer]().
    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/introducaoRBIOEXPERIMENTOS.zip)
+   * [Youtube](https://www.youtube.com/watch?v=OnEvY3xLtnI&t=2831s)
        
 2. [Introdução a Web Scraping](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 26/03/2022, ás 14h, a R-Ladies GYN+ ofereceu o curso de Introdução a Web Scraping.
     * Apresentado por [Juliana Sena](https://www.linkedin.com/in/juliana-ss/).
     * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Web%20Scrapping.rar) 
+    * [Youtube](https://www.youtube.com/watch?v=--RHc3-h26Y&t=4s)
 
 
 ### 2021 - 2° semestre
@@ -87,12 +95,14 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 11/09/2021, ás 09h, a R-Ladies GYN ofereceu o curso de Conectando GitHub ao RStudio.
    * Apresentado por [Beatriz Milz](https://beatrizmilz.com/about/).
    * [Material](https://beatrizmilz.com/talk/2021-git-e-github-gyn/)
+   * [Youtube](https://www.youtube.com/watch?v=uQL6NOSd9cc&t=3s)
    
     
 2. [GitHub Actions](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) 
    * No dia 18/09/2021, ás 14:30m, a R-Ladies GYN ofereceu o curso de Introdução ao GitHub Actions.
    * Apresentado por [Beatriz Milz](https://beatrizmilz.com/about/) e [Julio Trecenti](https://www.linkedin.com/in/jtrecenti/?originalSubdomain=br)
    * [Material](https://curso-r.github.io/rladies-GYN-github-actions/#1)
+   * [Youtube](https://www.youtube.com/watch?v=PUv_NBUmH0k)
     
 #### Outubro
 
@@ -100,6 +110,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 09/10/2021, ás 14h, a R-Ladies GYN ofereceu o curso de Introdução a Análise de Paisagens.
    * Apresentado por [Lais Brasileiro](https://twitter.com/scoutlais).
    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Curso_Intro_Paisagens.zip)
+   * [Youtube](https://www.youtube.com/watch?v=4DXKY_ej4Rk)
 
 #### Dezembro
 
@@ -107,6 +118,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 27/11/2021, ás 9h, a R-Ladies GYN ofereceu o curso de Análise de Dados com Redes em R.
    * Apresentado por [Marcel Ribeiro-Dantas](http://mribeirodantas.me/).
    * [Material do Curso](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/Curso%20de%20Redes%20em%20R.zip)
+   * [Youtube](https://www.youtube.com/watch?v=krnw81IE0RA)
+   
 
 
 ### 2021 - 1° semestre
@@ -115,23 +128,28 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
     * No dia 20/02/2021, ás 14h, a R-Ladies GYN ofereceu o curso de RStudio e suas funcionalidades.
     * Apresentado por [Amanda Vieira](https://www.linkedin.com/in/amanda-vieira-1462a2126/) & [Stefânia Ventura](stefania.ventura2@gmail.com)
     * [Como instalar o R](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/commit/3749b2a37dee8a9df343e9d8c8e3cfe1599eeedb)
+    * [Youtube](https://www.youtube.com/watch?v=7eE8RHgYFEE&t=3s)
    
 2. [Introdução ao R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 27/02/2021, ás 14h, a R-Ladies GYN ofereceu o curso Introdução ao R.
     * Apresentado por [Amanda Vieira](https://www.linkedin.com/in/amanda-vieira-1462a2126/) & [Stefânia Ventura](stefania.ventura2@gmail.com)
     * [Slides](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos)
     * [Códigos](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos)
+    * [Youtube](https://www.youtube.com/watch?v=X57Uc27Hjb4)
    
 3. [R Intermediário](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
     * No dia 06/03/2021, ás 14h, a R-Ladies GYN ofereceu o curso R Intermediário.
     * Apresentado por [Amanda Vieira](https://www.linkedin.com/in/amanda-vieira-1462a2126/).
     * [Códigos](https://rstudio.cloud/project/2248174)
+    * [Youtube](https://www.youtube.com/watch?v=yzpOGZ4sURw)
+    
 
 4. [Dply & tidyr: a dupla infalível](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 21/03/2021, ás 14h, a R-Ladies GYN ofereceu o curso Dplyr & Tidyr: a dupla implacável.
    * Apresentado por [Nicole Luduvice](https://www.linkedin.com/in/nicole-luduvice-9a6379197/).
    * [Códigos](https://rstudio.cloud/project/2334875).
    * [Slides](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/master/slide.pdf)
+   * [Youtube](https://www.youtube.com/watch?v=BZ8RUG2OVSs&t=6s)
    
 5. [Bigdata com Spark - CANCELADO](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * 10/04/2021
@@ -141,6 +159,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Iara Passos](https://www.linkedin.com/in/iara-passos-04911098/).
    * [Códigos](https://rstudio.cloud/project/2481217).
    * [Link para estudos](https://rmarkdown.rstudio.com/flexdashboard/index.html)
+   * [Youtube](https://www.youtube.com/watch?v=B_bXIyUgUTY)
   
 7. [Shiny: Construindo aplicativos web interativos](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 15/05/2021, ás 14h, a R-Ladies GYN ofereceu o curso Shiny: Construindo aplicativos web interativos.
@@ -150,6 +169,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Link DT Extensões](https://rstudio.github.io/DT/extensions.html)
    * [Link para estudos](https://shiny.rstudio.com/)
    * [Livro Mastering Shiny](https://mastering-shiny.org/)
+   * [Youtube](https://www.youtube.com/watch?v=rie8UpCwNMM&t=4420s)  
    
 
 8. [Regressão com Tidymodels](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
@@ -157,6 +177,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Viviane Sanchez](https://www.linkedin.com/in/vivianesanchez/).
    * [Github Viviane Sanchez](https://github.com/sanchezvivi/r-ladies-gyn-regression/)
    * [Apresentação](https://sanchezvivi.shinyapps.io/tidymodels-regression/).
+   * [Youtube](https://www.youtube.com/watch?v=B8r9aip3AlQ&t=19s)  
+   
    
 
 ### 2020

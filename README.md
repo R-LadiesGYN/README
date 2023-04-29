@@ -38,6 +38,8 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 3. [Introdução ao pacote purrr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 29/04/2023
    * Apresentado por [Beatriz Milz](https://beamilz.com)
+   * [Slides](https://beatrizmilz.github.io/2023-04-rladies-gyn-purrr/)
+   * [Códigos](https://posit.cloud/content/5890300)
    
 5. [gtsummary: uma nova maneira de criar tabelas elegantes e flexíveis](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 20/05/2023

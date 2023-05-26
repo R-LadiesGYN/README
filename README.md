@@ -36,17 +36,15 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Youtube](https://www.youtube.com/watch?v=XuxyzBhDvLg)
 
 3. [Introdução ao pacote purrr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 29/04/2023
+   * No dia 29/04/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso Introdução ao pacote purrr.
    * Apresentado por [Beatriz Milz](https://beamilz.com)
    * [Slides](https://beatrizmilz.github.io/2023-04-rladies-gyn-purrr/)
    * [Códigos](https://posit.cloud/content/5890300)
    
 5. [gtsummary: uma nova maneira de criar tabelas elegantes e flexíveis](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 20/05/2023
-   
-6. [PODE SER VOCÊ]
-   * No dia 17/06/2023
-       
+   * No dia 03/06/2023
+   * * Apresentado por [Quemuel Rodrigues]([https://beamilz.com](https://www.linkedin.com/in/quemuel-rodrigues-080672134/))
+     
    
     
 ### 2022 - 2° semestre

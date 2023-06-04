@@ -43,7 +43,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    
 5. [gtsummary: uma nova maneira de criar tabelas elegantes e flexíveis](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 03/06/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso gtsummary: uma nova maneira de criar tabelas elegantes e flexíveis.
-   * Apresentado por [Quemuel Rodrigues](https://www.linkedin.com/in/quemuel-rodrigues-080672134/))
+   * Apresentado por [Quemuel Rodrigues](https://www.linkedin.com/in/quemuel-rodrigues-080672134/)
    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/a7cb7b2c36f9b78f9090f1565ca44270f8ee5c3d/datavis_tabelas.zip)
      
    

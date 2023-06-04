@@ -40,11 +40,13 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Beatriz Milz](https://beamilz.com)
    * [Slides](https://beatrizmilz.github.io/2023-04-rladies-gyn-purrr/)
    * [Códigos](https://posit.cloud/content/5890300)
+   * [Youtube](https://www.youtube.com/watch?v=7gBDKBZcd7M&t=6687s)
    
 5. [gtsummary: uma nova maneira de criar tabelas elegantes e flexíveis](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 03/06/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso gtsummary: uma nova maneira de criar tabelas elegantes e flexíveis.
    * Apresentado por [Quemuel Rodrigues](https://www.linkedin.com/in/quemuel-rodrigues-080672134/)
    * [Material](https://github.com/R-LadiesGYN/Codigos.Slides.Cursos/blob/a7cb7b2c36f9b78f9090f1565ca44270f8ee5c3d/datavis_tabelas.zip)
+   * [Youtube](https://www.youtube.com/watch?v=uqOdwF3padI)
      
    
     

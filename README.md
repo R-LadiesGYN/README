@@ -22,16 +22,16 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 ## Eventos 
 
 ### 2023 - 2° semestre
-
-1. [Mentorear: Uma iniciativa R-Ladies Goiânia junto ao Instituto de Matemática e Estatística - UFG](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 06/11/2023, ás 18h, a R-Ladies GYN+ foi ao encontro dos estudantes do curso de Estatística da Universidade Federal de Goiás iniciar o projeto de mentoria a minorias sociais com o intuito de acessar um público diverso e que se encontram em uma etapa pré universo da tecnologia.
-   * Apresentado por [Fernanda Kelly](https://www.linkedin.com/in/fernandakellyrs/)
-     
-2. [Introdução ao R e Aplicações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+  
+1. [Introdução ao R e Aplicações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 07/10/2023, ás 14h, a R-Ladies GYN+ ofereceu o curso Introdução ao R e Aplicações.
    * Apresentado por [Jennifer Luz Lopes](https://www.linkedin.com/in/jennifer-luz-lopes/)
    * [Youtube](https://www.youtube.com/watch?v=S5aqB2ho9ps&t=12s)
    * [Ḿaterial](https://github.com/JenniferLopes/Curso_introducaoeaplicacoes)
+
+2. [Mentorear: Uma iniciativa R-Ladies Goiânia junto ao Instituto de Matemática e Estatística - UFG](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 06/11/2023, ás 18h, a R-Ladies GYN+ foi ao encontro dos estudantes do curso de Estatística da Universidade Federal de Goiás iniciar o projeto de mentoria a minorias sociais com o intuito de acessar um público diverso e que se encontram em uma etapa pré-universo da tecnologia.
+   * Apresentado por [Fernanda Kelly](https://www.linkedin.com/in/fernandakellyrs/)
    
 3. [stringr: Uma viagem a Data Mining](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 09/12/2023, ás 14h

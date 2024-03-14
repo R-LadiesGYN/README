@@ -21,6 +21,28 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos 
 
+### 2024 - 1° semestre
+
+1. [do R para o Python](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 16/03/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso 
+   * Apresentado por [Julia Hellen](https://www.linkedin.com/in/juliahellenferreira/)
+   * [Youtube]()
+   
+2. [RStudio e Suas Funcionalidades](https://www.instagram.com/nubea.ufgd/)
+   * No dia 02/04/2023 e 03/04/2024, ás 13:30-16:30, a R-Ladies Goiânia, a convite do evento I Simpósio de Botânica Aplicada da Faculdade de Ciências Biológicas e Ambientais da Universidade Federal da Grande Dourados (FCBA-UFGD), ministrou o curso RStudio e Suas funcionalidades.
+   * Apresentado por [Fernanda Kelly Romeiro Silva](https://www.linkedin.com/in/fernandakellyrs/)
+   * [Link de inscrição](https://www.even3.com.br/isbaufgd2024/)
+
+3. [Introdução a linguagem R](https://www.instagram.com/conabive.bio10/)
+   * No dia 17/04/2023, ás 14:30-18:30, a R-Ladies Goiânia, a convite do evento I Congresso Nacional de Biologia Vegetal On-line (I CONABIVE), ministrou o curso Introdução a linguagem R.
+   * Apresentado por [Fernanda Kelly Romeiro Silva](https://www.linkedin.com/in/fernandakellyrs/)
+   * [Link de inscrição](https://www.even3.com.br/conabive2024/?fbclid=PAAaZ22iWeho_33NMeFlwO0_d8xR7pDeeMVSx4EAlnQhHAL5qAflburZrb640)
+
+4. [Big Data:Explorando o pacote sparklyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 20/04/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso 
+   * Apresentado por [Suzana Lima](https://www.linkedin.com/in/suzana-de-lima-13a207188/)
+   * [Youtube]()
+
 ### 2023 - 2° semestre
   
 1. [Introdução ao R e Aplicações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

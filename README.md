@@ -43,7 +43,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Suzana Lima](https://www.linkedin.com/in/suzana-de-lima-13a207188/)
    * [Youtube]()
 
-5. [Observar e Absorver:em qual momento a diversidade atinge você?]([https://www.sympla.com.br/urlAlias/render?alias=cursosonline](https://www.iwdcerrado.com.br/))
+5. [Observar e Absorver:em qual momento a diversidade atinge você?](https://www.iwdcerrado.com.br/)
    * No dia 27/04/2024, a R-Ladies Goiânia, a convite do evento IWD Cerrado, ministrou a palestra Observar e Absorver: em qual momento a diversidade atinge você?.
    * Apresentado por [Fernanda Kelly Romeiro Silva](https://www.linkedin.com/in/fernandakellyrs/)
      

@@ -26,6 +26,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 1. [do R para o Python](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 16/03/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso 
    * Apresentado por [Julia Hellen](https://www.linkedin.com/in/juliahellenferreira/)
+   * [Material](https://medium.com/@juliahellenferreira/r-vs-python-duelo-entre-gigantes-d29dd076d968)
    * [Youtube](https://youtu.be/8DKpzMUoG6g?si=toSxWtFzMfMWQnch)
    
 2. [RStudio e Suas Funcionalidades](https://www.instagram.com/nubea.ufgd/)

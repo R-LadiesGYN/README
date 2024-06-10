@@ -39,14 +39,14 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * Apresentado por [Fernanda Kelly Romeiro Silva](https://www.linkedin.com/in/fernandakellyrs/)
    * [Link de inscrição](https://www.even3.com.br/conabive2024/?fbclid=PAAaZ22iWeho_33NMeFlwO0_d8xR7pDeeMVSx4EAlnQhHAL5qAflburZrb640)
 
-4. [Big Data:Explorando o pacote sparklyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 20/04/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso 
-   * Apresentado por [Suzana Lima](https://www.linkedin.com/in/suzana-de-lima-13a207188/)
-   * [Youtube]()
-
-5. [Observar e Absorver:em qual momento a diversidade atinge você?](https://www.iwdcerrado.com.br/)
+4. [Observar e Absorver:em qual momento a diversidade atinge você?](https://www.iwdcerrado.com.br/)
    * No dia 27/04/2024, a R-Ladies Goiânia, a convite do evento IWD Cerrado, ministrou a palestra Observar e Absorver: em qual momento a diversidade atinge você?.
    * Apresentado por [Fernanda Kelly Romeiro Silva](https://www.linkedin.com/in/fernandakellyrs/)
+  
+5. [Big Data:Explorando o pacote sparklyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 06/07/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso 
+   * Apresentado por [Suzana Lima](https://www.linkedin.com/in/suzana-de-lima-13a207188/)
+   * [Youtube]()
      
 ### 2023 - 2° semestre
   

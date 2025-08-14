@@ -21,10 +21,37 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 
 ## Eventos 
 
+### 2025 - 2° semestre
+
+1. [Storytelling with data in R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Storytelling with data in R.
+   * Apresentado por [Wanessa Alves](https://www.linkedin.com/in/wanessa-alves-lima-67028a252/)
+   * [Material]()
+   * [Youtube]()
+  
+2. [Storytelling with data in R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Storytelling with data in R.
+   * Apresentado por [Wanessa Alves](https://www.linkedin.com/in/wanessa-alves-lima-67028a252/)
+   * [Material]()
+   * [Youtube]()
+  
+3. [Storytelling with data in R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Storytelling with data in R.
+   * Apresentado por [Wanessa Alves](https://www.linkedin.com/in/wanessa-alves-lima-67028a252/)
+   * [Material]()
+   * [Youtube]()
+  
+4. [Aprendizado Causal](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 29/11/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Aprendizado Causal.
+   * Apresentado por [Beatriz Lima Silveira](https://www.linkedin.com/in/beatriz-lima-silveira/)
+   * [Material]()
+   * [Youtube]()
+  
+
 ### 2024 - 1° semestre
 
 1. [do R para o Python](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 16/03/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso 
+   * No dia 16/03/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso do R para o Python.
    * Apresentado por [Julia Hellen](https://www.linkedin.com/in/juliahellenferreira/)
    * [Material](https://medium.com/@juliahellenferreira/r-vs-python-duelo-entre-gigantes-d29dd076d968)
    * [Youtube](https://youtu.be/8DKpzMUoG6g?si=toSxWtFzMfMWQnch)

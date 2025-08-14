@@ -30,13 +30,13 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Youtube]()
   
 2. [**R: Revelações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso 
+   * No dia 27/09/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso 
    * Apresentado por [S-U-R-P-R-E-S-A]()
    * [Material]()
    * [Youtube]()
   
 3. [desencapsulado()](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso 
+   * No dia 25/10/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso 
    * Apresentado por [S-U-R-P-R-E-S-A]()
    * [Material]()
    * [Youtube]()

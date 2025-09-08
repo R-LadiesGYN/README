@@ -26,7 +26,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 1. [Storytelling with data in R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Storytelling with data in R.
    * Apresentado por [Wanessa Alves](https://www.linkedin.com/in/wanessa-alves-lima-67028a252/)
-   * [Material](https://wwanessa13.quarto.pub/storytelling-with-data-in-r---lima-w-a-e-paiva-g-f/)
+   * [Material](https://wwanessa13.quarto.pub/storytelling-with-data-in-r---lima-w-a-e-paiva-g-f/Desafio.html#desafio)
    * [Youtube]()
   
 2. [**R: Revelações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)

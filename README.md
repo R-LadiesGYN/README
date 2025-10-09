@@ -24,14 +24,14 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 ### 2025 - 2° semestre
 
 1. [Storytelling with data in R](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Storytelling with data in R.
+   * No dia 30/08/2025, ás 14h, a R-Ladies GYN+ ofereceu o curso Storytelling with data in R.
    * Apresentado por [Wanessa Alves](https://www.linkedin.com/in/wanessa-alves-lima-67028a252/)
    * [Material](https://wwanessa13.quarto.pub/storytelling-with-data-in-r---lima-w-a-e-paiva-g-f/Desafio.html#desafio)
    * [Youtube]()
   
-2. [**R: Revelações](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
-   * No dia 27/09/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso 
-   * Apresentado por [S-U-R-P-R-E-S-A]()
+2. [Comunicação efetiva com dados: da exploração à explanação](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+   * No dia 06/10/2025, ás 19h, a R-Ladies GYN+ ofereceu o curso Comunicação efetiva com dados: da exploração à explanação.
+   * Apresentado por [Nathália Demétrio](https://www.linkedin.com/in/nathaliademetrio/)
    * [Material]()
    * [Youtube]()
   

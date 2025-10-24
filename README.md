@@ -35,7 +35,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * [Material]()
    * [Youtube]()
   
-3. [Data wrangling com data.table](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+3. [CANCELADO: Data wrangling com data.table](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 25/10/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso 
    * Apresentado por [Letícia Canhestro]()
    * [Material]()

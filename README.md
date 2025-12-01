@@ -44,7 +44,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
 4. [Aprendizado Causal](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 29/11/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Aprendizado Causal.
    * Apresentado por [Beatriz Lima Silveira](https://www.linkedin.com/in/beatriz-lima-silveira/)
-   * [Material]()
+   * [Material](https://github.com/beatriz-ls/minicurso_introducao_inferencia_causal_rladies)
    * [Youtube]()
   
 
@@ -70,7 +70,7 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 27/04/2024, a R-Ladies Goiânia, a convite do evento IWD Cerrado, ministrou a palestra Observar e Absorver: em qual momento a diversidade atinge você?.
    * Apresentado por [Fernanda Kelly Romeiro Silva](https://www.linkedin.com/in/fernandakellyrs/)
   
-5. [Big Data:Explorando o pacote sparklyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
+5. [CANCELADO: Big Data:Explorando o pacote sparklyr](https://www.sympla.com.br/urlAlias/render?alias=cursosonline)
    * No dia 06/07/2024, ás 14h, a R-Ladies GYN+ ofereceu o curso 
    * Apresentado por [Suzana Lima](https://www.linkedin.com/in/suzana-de-lima-13a207188/)
    * [Youtube]()

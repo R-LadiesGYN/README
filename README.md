@@ -45,8 +45,14 @@ O [Meetup](https://www.meetup.com/pt-BR/rladies-goiania/events/past/) é a forma
    * No dia 29/11/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Aprendizado Causal.
    * Apresentado por [Beatriz Lima Silveira](https://www.linkedin.com/in/beatriz-lima-silveira/)
    * [Material](https://github.com/beatriz-ls/minicurso_introducao_inferencia_causal_rladies)
+   * [Youtube](https://www.youtube.com/watch?v=Cz-yoVhUmE0&t=8s)
+5. [Positron: um ambiente de desenvolvimento integrado (IDE)](https://www.sympla.com.br/evento-online/positron-um-ambiente-de-desenvolvimento-integrado-ide/3246569)
+   * No dia 20/12/2025, ás 14h, a R-Ladies GYN+ oferecerá o curso Positron: um ambiente de desenvolvimento integrado (IDE)
+   * Apresentado por [Jennifer Lopes](https://www.linkedin.com/in/jennifer-luz-lopes/)
+   * Apresentado por [Fernanda Kelly](https://www.linkedin.com/in/fernandakellyrs/)
+   * [Material GitHub](https://github.com/JenniferLopes/curso_positron_final)
+   * [Slides](https://jenniferlopes.quarto.pub/positron-ide/#/title-slide)
    * [Youtube]()
-  
 
 ### 2024 - 1° semestre
 
